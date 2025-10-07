@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "J-L33T",
+  "repo": "container-f4wl7tu",
+  "name": "J-L33T",
+  "email": "atdhfkm121@gmail.com",
+}
